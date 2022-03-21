@@ -11,8 +11,9 @@
 ### Slides
 
 <div>
-  <img width="595" alt="Screenshot 2022-03-21 at 12 22 35" src="https://user-images.githubusercontent.com/79321645/159253517-5910fdce-aef2-481a-adf8-e3895ad8968f.png">
+ <img width="594" alt="Screenshot 2022-03-21 at 12 51 44" src="https://user-images.githubusercontent.com/79321645/159255905-563539ab-4795-404f-bae1-0c6e305488ef.png">
 </div>
+<hr>
  <div>
-  <img width="695" alt="Screenshot 2022-03-21 at 12 40 28" src="https://user-images.githubusercontent.com/79321645/159254385-35038170-97b0-4042-bf16-bd6470b04a78.png">
+<img width="694" alt="Screenshot 2022-03-21 at 12 52 33" src="https://user-images.githubusercontent.com/79321645/159255962-12845353-676f-4bca-95b0-8731f1cb0a31.png">
 </div>
